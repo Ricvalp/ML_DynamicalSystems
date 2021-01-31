@@ -1,0 +1,57 @@
+2021-01-31 15:13:46,448 INFO    MainThread:13552 [wandb_setup.py:_flush():70] setting env: {}
+2021-01-31 15:13:46,448 INFO    MainThread:13552 [wandb_setup.py:_flush():70] multiprocessing start_methods=spawn
+2021-01-31 15:13:46,448 INFO    MainThread:13552 [wandb_setup.py:_flush():70] setting login settings: {}
+2021-01-31 15:13:46,448 INFO    MainThread:13552 [wandb_setup.py:_flush():70] setting login settings: {'api_key': 'ff82c9f3b92030ab8f88d84135b254135baaa049'}
+2021-01-31 15:13:46,448 INFO    MainThread:13552 [wandb_setup.py:_flush():70] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000217800B9988>
+2021-01-31 15:13:46,448 INFO    MainThread:13552 [wandb_init.py:_log_setup():318] Logging user logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\TensorFlow\Learning Hamiltonian Dynamics\GPU_friendly\wandb\run-20210131_151346-vht6y3sf\logs\debug.log
+2021-01-31 15:13:46,449 INFO    MainThread:13552 [wandb_init.py:_log_setup():319] Logging internal logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\TensorFlow\Learning Hamiltonian Dynamics\GPU_friendly\wandb\run-20210131_151346-vht6y3sf\logs\debug-internal.log
+2021-01-31 15:13:46,452 INFO    MainThread:13552 [wandb_run.py:finish():1053] finishing run riccardovalperga/uncategorized/1dd3siyz
+2021-01-31 15:13:46,452 INFO    MainThread:13552 [wandb_init.py:_jupyter_teardown():249] cleaning up jupyter logic
+2021-01-31 15:13:46,452 INFO    MainThread:13552 [jupyter.py:save_history():208] not saving jupyter history
+2021-01-31 15:13:46,453 INFO    MainThread:13552 [wandb_run.py:_atexit_cleanup():1366] got exitcode: 0
+2021-01-31 15:13:46,453 INFO    MainThread:13552 [wandb_run.py:_restore():1338] restore
+2021-01-31 15:13:46,763 INFO    MainThread:13552 [wandb_run.py:_wait_for_finish():1489] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 621
+  total_bytes: 621
+}
+
+2021-01-31 15:13:48,769 INFO    MainThread:13552 [wandb_run.py:_wait_for_finish():1489] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6631
+  total_bytes: 6631
+}
+
+2021-01-31 15:13:48,773 INFO    MainThread:13552 [wandb_run.py:_restore():1338] restore
+2021-01-31 15:13:50,011 ERROR   MainThread:13552 [wandb_run.py:_atexit_cleanup():1384] Problem finishing run
+Traceback (most recent call last):
+  File "C:\Users\valpe\Anaconda3\lib\site-packages\wandb\sdk\wandb_run.py", line 1374, in _atexit_cleanup
+    self._on_finish()
+  File "C:\Users\valpe\Anaconda3\lib\site-packages\wandb\sdk\wandb_run.py", line 1540, in _on_finish
+    self._poll_exit_response = self._wait_for_finish()
+  File "C:\Users\valpe\Anaconda3\lib\site-packages\wandb\sdk\wandb_run.py", line 1495, in _wait_for_finish
+    self._on_finish_progress(pusher_stats, done)
+  File "C:\Users\valpe\Anaconda3\lib\site-packages\wandb\sdk\wandb_run.py", line 1483, in _on_finish_progress
+    self._pusher_print_status(progress, done=done)
+  File "C:\Users\valpe\Anaconda3\lib\site-packages\wandb\sdk\wandb_run.py", line 1459, in _pusher_print_status
+    self._jupyter_progress.close()
+  File "C:\Users\valpe\Anaconda3\lib\site-packages\wandb\sdk\lib\ipython.py", line 84, in close
+    self._widget.close()
+  File "C:\Users\valpe\Anaconda3\lib\site-packages\ipywidgets\widgets\widget.py", line 469, in close
+    self.comm.close()
+  File "C:\Users\valpe\Anaconda3\lib\site-packages\ipykernel\comm\comm.py", line 116, in close
+    self.kernel.comm_manager.unregister_comm(self)
+  File "C:\Users\valpe\Anaconda3\lib\site-packages\ipykernel\comm\manager.py", line 56, in unregister_comm
+    comm = self.comms.pop(comm.comm_id)
+KeyError: '0ece402d2cb7411da8cf2c5d733cc9c0'
+2021-01-31 15:13:53,282 INFO    MainThread:13552 [wandb_run.py:_console_start():1396] atexit reg
+2021-01-31 15:13:53,283 INFO    MainThread:13552 [wandb_run.py:_redirect():1259] redirect: SettingsConsole.WRAP
+2021-01-31 15:13:53,283 INFO    MainThread:13552 [wandb_run.py:_redirect():1294] Wrapping output streams.
+2021-01-31 15:13:53,283 INFO    MainThread:13552 [wandb_run.py:_redirect():1310] Redirects installed.
