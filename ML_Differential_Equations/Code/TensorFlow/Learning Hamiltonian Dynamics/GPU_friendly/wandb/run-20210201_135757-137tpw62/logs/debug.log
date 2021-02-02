@@ -41,3 +41,29 @@ pusher_stats {
 2021-02-01 13:58:07,070 INFO    MainThread:11060 [wandb_run.py:_redirect():1259] redirect: SettingsConsole.WRAP
 2021-02-01 13:58:07,070 INFO    MainThread:11060 [wandb_run.py:_redirect():1294] Wrapping output streams.
 2021-02-01 13:58:07,070 INFO    MainThread:11060 [wandb_run.py:_redirect():1310] Redirects installed.
+2021-02-02 01:07:01,683 INFO    MainThread:11060 [wandb_run.py:_atexit_cleanup():1366] got exitcode: 0
+2021-02-02 01:07:01,698 INFO    MainThread:11060 [wandb_run.py:_restore():1338] restore
+2021-02-02 01:07:02,025 INFO    MainThread:11060 [wandb_run.py:_wait_for_finish():1489] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 621
+  total_bytes: 621
+}
+
+2021-02-02 01:07:04,040 INFO    MainThread:11060 [wandb_run.py:_wait_for_finish():1489] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 211369
+  total_bytes: 1150390
+}
+
+2021-02-02 01:07:06,049 INFO    MainThread:11060 [wandb_run.py:_wait_for_finish():1489] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 465321
+  total_bytes: 1150390
+}
+

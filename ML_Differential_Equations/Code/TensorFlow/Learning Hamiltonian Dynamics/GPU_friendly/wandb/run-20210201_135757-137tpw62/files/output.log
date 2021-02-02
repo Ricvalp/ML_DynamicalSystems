@@ -817,3 +817,15 @@ running time : 293.09320187568665 seconds
 running time : 9.929866075515747 seconds
 running time : 10.169983625411987 seconds
 running time : 65.17475128173828 seconds
+running time : 644.0036540031433 seconds
+running time : 623.5415644645691 seconds
+running time : 625.9270157814026 seconds
+running time : 639.5686893463135 seconds
+running time : 648.5851082801819 seconds
+ERROR: Invalid requirement: 'julia/'
+Note: you may need to restart the kernel to use updated packages.
+Collecting julia
+  Downloading https://files.pythonhosted.org/packages/79/15/b7ffd6aab0902a8430db614f964c2516db52f847a3c42d99904de72c1faa/julia-0.5.6-py2.py3-none-any.whl (67kB)
+Installing collected packages: julia
+Successfully installed julia-0.5.6
+Note: you may need to restart the kernel to use updated packages.
