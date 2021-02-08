@@ -1,0 +1,21 @@
+2021-02-04 13:59:07,556 INFO    MainThread:11660 [wandb_setup.py:_flush():70] setting env: {}
+2021-02-04 13:59:07,556 INFO    MainThread:11660 [wandb_setup.py:_flush():70] multiprocessing start_methods=spawn
+2021-02-04 13:59:07,556 INFO    MainThread:11660 [wandb_setup.py:_flush():70] setting login settings: {}
+2021-02-04 13:59:07,556 INFO    MainThread:11660 [wandb_setup.py:_flush():70] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000027148BA6D88>
+2021-02-04 13:59:07,556 INFO    MainThread:11660 [wandb_init.py:_log_setup():318] Logging user logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\TensorFlow\Learning Hamiltonian Dynamics\GPU_friendly\wandb\run-20210204_135907-feifzner\logs\debug.log
+2021-02-04 13:59:07,558 INFO    MainThread:11660 [wandb_init.py:_log_setup():319] Logging internal logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\TensorFlow\Learning Hamiltonian Dynamics\GPU_friendly\wandb\run-20210204_135907-feifzner\logs\debug-internal.log
+2021-02-04 13:59:11,054 INFO    MainThread:11660 [wandb_run.py:_console_start():1396] atexit reg
+2021-02-04 13:59:11,054 INFO    MainThread:11660 [wandb_run.py:_redirect():1259] redirect: SettingsConsole.WRAP
+2021-02-04 13:59:11,055 INFO    MainThread:11660 [wandb_run.py:_redirect():1294] Wrapping output streams.
+2021-02-04 13:59:11,055 INFO    MainThread:11660 [wandb_run.py:_redirect():1310] Redirects installed.
+2021-02-04 14:29:05,733 INFO    MainThread:11660 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-04 14:30:49,102 INFO    MainThread:11660 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-04 14:30:49,481 INFO    MainThread:11660 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-04 14:31:02,936 INFO    MainThread:11660 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-04 14:31:03,082 INFO    MainThread:11660 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-04 14:31:21,433 INFO    MainThread:11660 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-04 14:34:22,677 INFO    MainThread:11660 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-04 14:36:57,468 INFO    MainThread:11660 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-04 14:36:57,711 INFO    MainThread:11660 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-04 14:37:20,343 INFO    MainThread:11660 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-04 14:40:14,271 INFO    MainThread:11660 [wandb_init.py:_pause_backend():239] pausing backend

@@ -1,0 +1,20 @@
+{
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.4",
+    "heartbeatAt": "2021-02-06T11:34:14.497891",
+    "startedAt": "2021-02-06T11:34:11.144862",
+    "docker": null,
+    "gpu": "GeForce MX250",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\valpe\\AppData\\Roaming\\jupyter\\runtime\\kernel-0163e554-8872-425c-8eec-401a44fd8fa0.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "DESKTOP-18HBLST",
+    "username": "valpe",
+    "executable": "C:\\Users\\valpe\\Anaconda3\\python.exe"
+}

@@ -1,0 +1,25 @@
+2021-02-04 19:07:00,458 INFO    MainThread:22432 [wandb_setup.py:_flush():70] setting env: {}
+2021-02-04 19:07:00,458 INFO    MainThread:22432 [wandb_setup.py:_flush():70] multiprocessing start_methods=spawn
+2021-02-04 19:07:00,458 INFO    MainThread:22432 [wandb_setup.py:_flush():70] setting login settings: {}
+2021-02-04 19:07:00,458 INFO    MainThread:22432 [wandb_setup.py:_flush():70] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000267B5F2ADC8>
+2021-02-04 19:07:00,458 INFO    MainThread:22432 [wandb_init.py:_log_setup():318] Logging user logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\TensorFlow\Learning Hamiltonian Dynamics\GPU_friendly\wandb\run-20210204_190700-2bzqc85z\logs\debug.log
+2021-02-04 19:07:00,460 INFO    MainThread:22432 [wandb_init.py:_log_setup():319] Logging internal logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\TensorFlow\Learning Hamiltonian Dynamics\GPU_friendly\wandb\run-20210204_190700-2bzqc85z\logs\debug-internal.log
+2021-02-04 19:07:03,904 INFO    MainThread:22432 [wandb_run.py:_console_start():1396] atexit reg
+2021-02-04 19:07:03,905 INFO    MainThread:22432 [wandb_run.py:_redirect():1259] redirect: SettingsConsole.WRAP
+2021-02-04 19:07:03,905 INFO    MainThread:22432 [wandb_run.py:_redirect():1294] Wrapping output streams.
+2021-02-04 19:07:03,905 INFO    MainThread:22432 [wandb_run.py:_redirect():1310] Redirects installed.
+2021-02-04 19:46:13,030 INFO    MainThread:22432 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-04 20:57:40,530 INFO    MainThread:22432 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-04 20:57:43,787 INFO    MainThread:22432 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-04 20:57:58,774 INFO    MainThread:22432 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-04 20:57:58,918 INFO    MainThread:22432 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-04 20:58:14,376 INFO    MainThread:22432 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-04 20:58:14,385 INFO    MainThread:22432 [wandb_setup.py:_flush():70] setting env: {}
+2021-02-04 20:58:14,385 INFO    MainThread:22432 [wandb_setup.py:_flush():70] multiprocessing start_methods=spawn
+2021-02-04 20:58:14,385 INFO    MainThread:22432 [wandb_setup.py:_flush():70] setting login settings: {}
+2021-02-04 20:58:14,385 INFO    MainThread:22432 [wandb_setup.py:_flush():70] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x00000267B5F2ADC8>
+2021-02-04 20:58:14,385 INFO    MainThread:22432 [wandb_init.py:_log_setup():318] Logging user logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\TensorFlow\Learning Hamiltonian Dynamics\GPU_friendly\wandb\run-20210204_205814-25gb9lxa\logs\debug.log
+2021-02-04 20:58:14,387 INFO    MainThread:22432 [wandb_init.py:_log_setup():319] Logging internal logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\TensorFlow\Learning Hamiltonian Dynamics\GPU_friendly\wandb\run-20210204_205814-25gb9lxa\logs\debug-internal.log
+2021-02-04 20:58:14,388 INFO    MainThread:22432 [wandb_run.py:finish():1053] finishing run riccardovalperga/uncategorized/2bzqc85z
+2021-02-04 20:58:14,388 INFO    MainThread:22432 [wandb_init.py:_jupyter_teardown():249] cleaning up jupyter logic
+2021-02-04 20:58:14,388 INFO    MainThread:22432 [jupyter.py:save_history():208] not saving jupyter history
