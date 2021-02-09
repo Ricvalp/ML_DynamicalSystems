@@ -1,0 +1,62 @@
+2021-02-09 18:26:56,850 INFO    MainThread:23576 [wandb_setup.py:_flush():70] setting env: {}
+2021-02-09 18:26:56,850 INFO    MainThread:23576 [wandb_setup.py:_flush():70] multiprocessing start_methods=spawn
+2021-02-09 18:26:56,850 INFO    MainThread:23576 [wandb_setup.py:_flush():70] setting login settings: {}
+2021-02-09 18:26:56,851 INFO    MainThread:23576 [wandb_setup.py:_flush():70] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001B7B2F33608>
+2021-02-09 18:26:56,851 INFO    MainThread:23576 [wandb_init.py:_log_setup():318] Logging user logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\Python_SINDY\wandb\run-20210209_182656-2yd579c4\logs\debug.log
+2021-02-09 18:26:56,851 INFO    MainThread:23576 [wandb_init.py:_log_setup():319] Logging internal logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\Python_SINDY\wandb\run-20210209_182656-2yd579c4\logs\debug-internal.log
+2021-02-09 18:26:56,853 INFO    MainThread:23576 [wandb_run.py:finish():1053] finishing run riccardovalperga/uncategorized/12uvlr56
+2021-02-09 18:26:56,853 INFO    MainThread:23576 [wandb_run.py:_atexit_cleanup():1366] got exitcode: 0
+2021-02-09 18:26:56,853 INFO    MainThread:23576 [wandb_run.py:_restore():1338] restore
+2021-02-09 18:26:57,088 INFO    MainThread:23576 [wandb_run.py:_wait_for_finish():1489] got exit ret: file_counts {
+  wandb_count: 1
+}
+pusher_stats {
+  uploaded_bytes: 621
+  total_bytes: 621
+}
+
+2021-02-09 18:26:59,093 INFO    MainThread:23576 [wandb_run.py:_wait_for_finish():1489] got exit ret: file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6765
+  total_bytes: 6765
+}
+
+2021-02-09 18:27:01,093 INFO    MainThread:23576 [wandb_run.py:_wait_for_finish():1489] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 5
+}
+pusher_stats {
+  uploaded_bytes: 6765
+  total_bytes: 6765
+}
+
+2021-02-09 18:27:02,342 INFO    MainThread:23576 [wandb_run.py:_show_files():1711] logging synced files
+2021-02-09 18:27:05,381 INFO    MainThread:23576 [wandb_run.py:_console_start():1396] atexit reg
+2021-02-09 18:27:05,382 INFO    MainThread:23576 [wandb_run.py:_redirect():1259] redirect: SettingsConsole.WRAP
+2021-02-09 18:27:05,382 INFO    MainThread:23576 [wandb_run.py:_redirect():1294] Wrapping output streams.
+2021-02-09 18:27:05,382 INFO    MainThread:23576 [wandb_run.py:_redirect():1310] Redirects installed.
+2021-02-09 18:30:23,462 INFO    MainThread:23576 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-09 18:30:36,234 INFO    MainThread:23576 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-09 18:30:36,345 INFO    MainThread:23576 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-09 18:31:15,585 INFO    MainThread:23576 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-09 18:31:15,827 INFO    MainThread:23576 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-09 18:31:47,843 INFO    MainThread:23576 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-09 18:31:47,847 INFO    MainThread:23576 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-09 18:31:48,426 INFO    MainThread:23576 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-09 18:31:48,537 INFO    MainThread:23576 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-09 18:31:52,597 INFO    MainThread:23576 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-09 18:31:52,598 INFO    MainThread:23576 [wandb_init.py:_pause_backend():239] pausing backend
+2021-02-09 18:31:58,191 INFO    MainThread:23576 [wandb_init.py:_resume_backend():244] resuming backend
+2021-02-09 18:31:58,204 INFO    MainThread:23576 [wandb_setup.py:_flush():70] setting env: {}
+2021-02-09 18:31:58,204 INFO    MainThread:23576 [wandb_setup.py:_flush():70] multiprocessing start_methods=spawn
+2021-02-09 18:31:58,204 INFO    MainThread:23576 [wandb_setup.py:_flush():70] setting login settings: {}
+2021-02-09 18:31:58,204 INFO    MainThread:23576 [wandb_setup.py:_flush():70] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001B7B2F33608>
+2021-02-09 18:31:58,204 INFO    MainThread:23576 [wandb_init.py:_log_setup():318] Logging user logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\Python_SINDY\wandb\run-20210209_183158-3a4784jg\logs\debug.log
+2021-02-09 18:31:58,205 INFO    MainThread:23576 [wandb_init.py:_log_setup():319] Logging internal logs to C:\Users\valpe\Documents\GitHub\ML_DynamicalSystems\ML_Differential_Equations\Code\Python_SINDY\wandb\run-20210209_183158-3a4784jg\logs\debug-internal.log
+2021-02-09 18:31:58,206 INFO    MainThread:23576 [wandb_run.py:finish():1053] finishing run riccardovalperga/uncategorized/2yd579c4
+2021-02-09 18:31:58,206 INFO    MainThread:23576 [wandb_init.py:_jupyter_teardown():249] cleaning up jupyter logic
+2021-02-09 18:31:58,206 INFO    MainThread:23576 [jupyter.py:save_history():208] not saving jupyter history
